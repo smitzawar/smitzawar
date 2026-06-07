@@ -22,7 +22,7 @@
 - 🧠 Exploring **Generative AI, MLOps, and Distributed Systems**.
 - 📫 Reach me at: **smitzawar@gmail.com** *(update with your actual email)*
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" />
+<img align="right" src="https://raw.githubusercontent.com/smitzawar/smitzawar/main/WhatsApp%20Image%202026-06-07%20at%204.47.26%20PM.jpeg" width="300" style="border-radius: 16px;" />
 
 ---
 
