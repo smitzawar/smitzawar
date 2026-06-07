@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d6e,100:00b4d8&height=200&section=header&text=Hi%20I'm%20Smit%20Zawar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20%26%20ML%20Solutions&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0e4d6e,100:00b4d8&amp;height=200&amp;section=header&amp;text=Hi%20I'm%20Smit%20Zawar&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Building%20AI%20%26%20ML%20Solutions&amp;descAlignY=60&amp;descSize=20" width="100%" />
 </div>
 
 ---
@@ -95,5 +95,5 @@
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00b4d8,100:0d1117&amp;height=100&amp;section=footer" width="100%" />
 </div>
